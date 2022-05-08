@@ -12,6 +12,8 @@ public class Main {
         String Name = fullName.toUpperCase();
         System.out.println("Данные ФИО сотрудника для заполнения отчета — " + Name);
         System.out.println();
-
+//task3
+        String Name2 = fullName.replace("ё", "e");
+        System.out.println("Данные ФИО сотрудника — " + Name2);
     }
 }
