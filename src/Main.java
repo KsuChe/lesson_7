@@ -20,7 +20,6 @@ public class Main {
             System.out.println("успех");
         } else {
             System.out.println("неудача");
-
         }
     }
 }
